@@ -1,16 +1,30 @@
-### Hi there 👋
+# <b>👋 • hewwo! ૮ᵔ ᵕ ᵔა</b>
 
-<!--
-**nokkotsune/nokkotsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hey, you found my userpage!
 
-Here are some ideas to get you started:
+im nokkotsune! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 • my (small) bio
+- linux is good
+- like open source
+- love playing the piano
+
+## 🎯 • todos
+- **to learn**
+  - python
+  - lua
+  - javascript
+  
+```
+
+         ／＞　 フ 
+         | 　_　_| 
+       ／` ミ＿xノ 
+      /　　　　 |
+     /　 ヽ　　 ﾉ
+     │　　|　|　|
+／￣|　　 |　|　|
+＼二)ヽ＿_ヽ_)__)
+
+
+```
