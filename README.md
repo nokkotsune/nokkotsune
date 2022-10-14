@@ -6,7 +6,7 @@ im nokkotsune!
 
 ## 📝 • my (small) bio
 - linux is good
-- like open source
+- open source enjoyer
 - love playing the piano
 
 ## 🎯 • todos
